@@ -15,4 +15,4 @@ Hi, this is my experimenting with python.
 
 ::
 
-    python day003/treasure_island.python
+    python day003/treasure_island.py
