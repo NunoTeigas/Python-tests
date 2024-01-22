@@ -1,5 +1,5 @@
-a= input()
-b= input()
+a= input("Type a number.\n")
+b= input("Type another number.\n")
 
 c = a
 a = b
