@@ -39,4 +39,4 @@ Warning your output should match the Example Output format exactly, even the pos
 
 ::
 
-    python day002/odd_or_even.py
+    python day003/odd_or_even.py

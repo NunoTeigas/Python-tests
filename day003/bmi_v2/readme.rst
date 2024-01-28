@@ -42,4 +42,4 @@ The testing code will check for print output that is formatted like one of the l
 
 ::
 
-    python day002/bmi_v2.py
+    python day003/bmi_v2.py
