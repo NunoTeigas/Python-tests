@@ -12,12 +12,11 @@ elif size == "m":
 else:
     total += 25
 
-if pepperoni == "y" and size == "s":
-    total += 2
-elif pepperoni == "y" and size == "m":
-    total += 3
-elif pepperoni == "y" and size == "l":
-    total += 3
+if pepperoni == "y":
+    if size == "s":
+        total += 2
+    else:
+        total += 3
 
 if cheese == "y":
     total += 1
