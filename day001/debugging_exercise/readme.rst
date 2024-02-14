@@ -13,4 +13,4 @@ Look at the code in the code editor. There are errors on all 4 lines of code. Fi
 
 ::
 
-    python day001/printing.py
+    python day001/debugging.py
